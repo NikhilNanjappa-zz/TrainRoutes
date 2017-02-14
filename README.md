@@ -1,5 +1,5 @@
-Running 
-========
+How to run 
+==========
 
 1. Please install node if not already available.
 
