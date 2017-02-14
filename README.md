@@ -1,9 +1,9 @@
 Running 
 ========
 
-1. Please install node if not already present.
+1. Please install node if not already available.
 
-2. After Installing node run the below command to run:
+2. After Installing node run the below command:
 
 	node output.js [graph-coordinates]
 
